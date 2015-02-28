@@ -1,0 +1,9 @@
+def Acl_list_create(NAME, DEFAULT ACTION):
+	print NAME
+	print DEFAULT ACTION
+	File=open("ACL.txt")
+	for line in File:
+	line=line.rstrip()
+	k=line.split(",")
+	print k
+	return 0

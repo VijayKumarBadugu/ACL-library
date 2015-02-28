@@ -1,0 +1,11 @@
+The code is write in python
+1)Download the zip
+2)The folder contains all source file
+3)In command run the program "Testsuite.py" as "python Testsuite.py"
+4)The ACLs are defined in Base.py
+5)Results can be viewed in  TextCase1.txt,TextCase2.txt,TextCase3.txt,TextCase4.txt,TextCase5.txt,TextCase6.txt,TextCase7.txt,TextCase8.txt
+6)ACL can be viewed in "ACL.txt"
+7)In ACL.txt and Testcases in which the ACL are written in txt file are put in format given below
+
+ACLNAME, PRIORITY,ACTION,SRC_IP_PREFIX, DST_IP_PREFIX, PROTO, SRC_PORT, DST_PORT
+
